@@ -31,7 +31,8 @@
     ]
 
 3. cmd:
-    - django-admin makemessages -l en(zh-hant)
+    - django-admin makemessages -l en
+    - django-admin makemessages -l zh_Hant
     - django-admin makemessages --all
 
 4. Modify .po -> cmd:

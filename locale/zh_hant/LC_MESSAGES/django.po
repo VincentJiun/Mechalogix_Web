@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-04 23:01+0800\n"
-"PO-Revision-Date: 2024-03-04 23:02+0000\n"
+"POT-Creation-Date: 2024-03-05 14:37+0800\n"
+"PO-Revision-Date: 2024-03-05 14:40+0000\n"
 "Last-Translator:   <vincent7955168@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
@@ -27,6 +27,36 @@ msgstr "英文"
 msgid "Traditional Chinese"
 msgstr "繁體中文"
 
+#: .\templates\base.html:7
+msgid "web_title_index"
+msgstr "首頁"
+
 #: .\templates\index.html:7
 msgid "hellotitle"
 msgstr "測試"
+
+#: .\templates\navbar.html:17
+msgid "nav_about"
+msgstr "關於"
+
+#: .\templates\navbar.html:28
+#| msgid "nav_about"
+msgid "nav_product"
+msgstr "產品"
+
+#: .\templates\navbar.html:39
+#| msgid "nav_about"
+msgid "nav_Solution"
+msgstr "解決方案"
+
+#: .\templates\navbar.html:50
+msgid "nav_FAQ"
+msgstr "FAQ"
+
+#: .\templates\navbar.html:60
+msgid "nav_contact_us"
+msgstr "聯絡我們"
+
+#: .\templates\navbar.html:64
+msgid "nav_language"
+msgstr "Language"
